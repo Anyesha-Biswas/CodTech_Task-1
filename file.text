@@ -1,6 +1,0 @@
-Hello, this is task 1
-<<<<<<< HEAD
-This is a conflicting update in main.
-=======
-This is a new feature update.
->>>>>>> feature-branch
