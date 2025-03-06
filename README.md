@@ -1,13 +1,17 @@
-DevOps Task 1: Version Control with Git
-Task Objectives:
-Set up a Git repository
-Create branches
-Demonstrate merge conflict resolution
-Provide commit history and documentation
-Step 1: Initialize Git Repository
-Step 2: Create and Commit a File
-Step 3: Create a New Branch
-Step 4: Modify the File in Feature Branch and Commit
-Step 5: Create a Merge Conflict
-Step 6: Resolve Merge Conflict
-Step 7: Push to GitHub (Optional)
+# CodTech Task-1: Version Control with Git & GitHub
+
+## 🚀 Project Overview
+This project demonstrates the use of **Git** and **GitHub** for version control. The goal is to practice fundamental Git commands, set up a repository, and push code changes.
+
+## 📌 Task Requirements
+- Initialize a **Git repository**.
+- Create a GitHub repository and push local changes.
+- Demonstrate proper version control practices (committing, branching, merging).
+
+## 🛠️ Technologies Used
+- **Git** (Version Control)
+- **GitHub** (Remote Repository)
+- **Markdown** (For documentation)
+
+## 📂 Project Structure
+/CodTech_Task-1 │── index.html # Simple webpage file │── README.md # Project documentation
